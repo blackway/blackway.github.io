@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/blackway/blackway.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[googlelink]: https://blackway.github.io/post "Post"
+[글 목록!](https://blackway.github.io/post)
 
 ### Markdown
 

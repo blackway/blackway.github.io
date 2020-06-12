@@ -1,2 +1,7 @@
+---
+layout: default
+title: About
+---
+# About page
 
-## 안녕 about
+This page tells you a little bit about me.
